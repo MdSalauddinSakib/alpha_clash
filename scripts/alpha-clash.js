@@ -11,7 +11,8 @@
 
 function continueGame(){
     // step-1: generate a random alphabet
-    // 
+    const alphabet = getRandomAlphabet();
+    console.log('Your random alphabet', alphabet);
 
 }
 
